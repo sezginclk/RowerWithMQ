@@ -1,0 +1,15 @@
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.csprojAssemblyReference.cache
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.Form1.resources
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.Properties.Resources.resources
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.csproj.GenerateResource.cache
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.csproj.CoreCompileInputs.cache
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\bin\Debug\RabbitPublisher.exe.config
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\bin\Debug\RabbitPublisher.exe
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\bin\Debug\RabbitPublisher.pdb
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\bin\Debug\RabbitMQ.Client.dll
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\bin\Debug\RabbitMQ.Client.xml
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.csproj.CopyComplete
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.exe
+C:\Users\4530HMZ\source\repos\RabbitPublisher\RabbitPublisher\obj\Debug\RabbitPublisher.pdb
